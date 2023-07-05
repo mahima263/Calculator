@@ -21,4 +21,4 @@ Build with-
 
 How to Run?
 
-to sun my application you simply need to clone the project and run the html file.
+To run  my application you simply need to clone the project and run the html file.
